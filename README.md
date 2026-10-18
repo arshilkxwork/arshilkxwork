@@ -20,14 +20,15 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 | Project | PRs | Focus |
 | --- | --- | --- |
 | [Apache HugeGraph](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Aapache%2Fhugegraph+repo%3Aapache%2Fhugegraph-doc) | 5 merged · 1 open | Server auth and Prometheus metrics fixes, PD store gauges and leader balancing, docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph-doc/pull/531">#531</a> — docs(pd): document per-store state and leader count gauges</sub> |
-| [Kiwix JS](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Akiwix%2Fkiwix-js) | 0 merged · 2 open | Archive loading fixes: block cache keys for same-name archives, folder drag and drop.<br><sub>Open: <a href="https://github.com/kiwix/kiwix-js/pull/1542">#1542</a> — Read every entry of a folder dropped onto the app</sub> |
+| [Kiwix JS](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Akiwix%2Fkiwix-js) | 0 merged · 2 open | Archive loading fixes: block cache keys for same-name archives, folder drag and drop.<br><sub>Open: <a href="https://github.com/kiwix/kiwix-js/pull/1542">#1542</a> — Read every entry of a folder dropped onto the app #1545</sub> |
 
 ## Open PRs
 
 Open pull requests in upstream projects (refreshed automatically).
 
-- [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app
-- [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name
+- [apache/casbin#1766](https://github.com/apache/casbin/pull/1766) — fix: return error instead of panic on invalid regex in regexMatch
+- [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app #1545
+- [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name #1544
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
 
 ## Stats
@@ -43,4 +44,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-18 06:03 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-18 18:15 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
