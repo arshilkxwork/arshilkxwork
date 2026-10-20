@@ -27,7 +27,6 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 Open pull requests in upstream projects (refreshed automatically).
 
 - [apache/hugegraph-toolchain#828](https://github.com/apache/hugegraph-toolchain/pull/828) — fix(build): sign and attach release artifacts once
-- [apache/casbin#1766](https://github.com/apache/casbin/pull/1766) — fix: return error instead of panic on invalid regex in regexMatch
 - [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app #1545
 - [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name #1544
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
@@ -45,4 +44,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-20 03:23 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-20 16:20 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
