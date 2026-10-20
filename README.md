@@ -7,7 +7,7 @@ Student developer · Java server work & full-stack web
 
 </div>
 
-I'm a student who builds full-stack web projects and sends fixes to open source projects. **5 merged upstream PRs** so far, mostly in Apache HugeGraph.
+I'm a student who builds full-stack web projects and sends fixes to open source projects. **6 merged upstream PRs** so far, mostly in Apache HugeGraph.
 
 On [Apache HugeGraph](https://github.com/apache/hugegraph) I work on the server and PD: decoding HTTP Basic auth credentials as UTF-8, sanitizing Prometheus metric names and removing duplicated `/metrics` families, exporting per-store state and leader count gauges from PD, and documenting the changes in [hugegraph-doc](https://github.com/apache/hugegraph-doc).
 
@@ -19,14 +19,14 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 
 | Project | PRs | Focus |
 | --- | --- | --- |
-| [Apache HugeGraph](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Aapache%2Fhugegraph+repo%3Aapache%2Fhugegraph-doc) | 5 merged · 2 open | Server auth and Prometheus metrics fixes, PD store gauges and leader balancing, docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph-doc/pull/531">#531</a> — docs(pd): document per-store state and leader count gauges</sub> |
+| [Apache HugeGraph](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Aapache%2Fhugegraph+repo%3Aapache%2Fhugegraph-doc) | 6 merged · 1 open | Server auth and Prometheus metrics fixes, PD store gauges and leader balancing, docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3374">#3374</a> — fix(hstore): register the graph with PD again after clear</sub> |
 | [Kiwix JS](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Akiwix%2Fkiwix-js) | 0 merged · 2 open | Archive loading fixes: block cache keys for same-name archives, folder drag and drop.<br><sub>Open: <a href="https://github.com/kiwix/kiwix-js/pull/1542">#1542</a> — Read every entry of a folder dropped onto the app #1545</sub> |
 
 ## Open PRs
 
 Open pull requests in upstream projects (refreshed automatically).
 
-- [apache/hugegraph#3374](https://github.com/apache/hugegraph/pull/3374) — fix(hstore): register the graph with PD again after clear
+- [apache/hugegraph-toolchain#828](https://github.com/apache/hugegraph-toolchain/pull/828) — fix(build): sign and attach release artifacts once
 - [apache/casbin#1766](https://github.com/apache/casbin/pull/1766) — fix: return error instead of panic on invalid regex in regexMatch
 - [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app #1545
 - [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name #1544
@@ -45,4 +45,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-19 18:23 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-20 03:23 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
