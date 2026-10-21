@@ -26,6 +26,7 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 
 Open pull requests in upstream projects (refreshed automatically).
 
+- [apache/casbin#1767](https://github.com/apache/casbin/pull/1767) — fix: look up pattern tokens by group name in KeyMatch4 and KeyGet2/3
 - [apache/hugegraph-toolchain#828](https://github.com/apache/hugegraph-toolchain/pull/828) — fix(build): sign and attach release artifacts once
 - [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app #1545
 - [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name #1544
@@ -44,4 +45,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-20 16:20 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-21 11:09 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
