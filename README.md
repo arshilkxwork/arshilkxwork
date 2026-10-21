@@ -7,7 +7,7 @@ Student developer · Java server work & full-stack web
 
 </div>
 
-I'm a student who builds full-stack web projects and sends fixes to open source projects. **6 merged upstream PRs** so far, mostly in Apache HugeGraph.
+I'm a student who builds full-stack web projects and sends fixes to open source projects. **7 merged upstream PRs** so far, mostly in Apache HugeGraph.
 
 On [Apache HugeGraph](https://github.com/apache/hugegraph) I work on the server and PD: decoding HTTP Basic auth credentials as UTF-8, sanitizing Prometheus metric names and removing duplicated `/metrics` families, exporting per-store state and leader count gauges from PD, and documenting the changes in [hugegraph-doc](https://github.com/apache/hugegraph-doc).
 
@@ -27,7 +27,6 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 Open pull requests in upstream projects (refreshed automatically).
 
 - [apache/casbin#1767](https://github.com/apache/casbin/pull/1767) — fix: look up pattern tokens by group name in KeyMatch4 and KeyGet2/3
-- [apache/hugegraph-toolchain#828](https://github.com/apache/hugegraph-toolchain/pull/828) — fix(build): sign and attach release artifacts once
 - [kiwix/kiwix-js#1542](https://github.com/kiwix/kiwix-js/pull/1542) — Read every entry of a folder dropped onto the app #1545
 - [kiwix/kiwix-js#1541](https://github.com/kiwix/kiwix-js/pull/1541) — Stop the block cache mixing up archives with the same name #1544
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
@@ -45,4 +44,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-21 11:09 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-21 16:36 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
