@@ -7,7 +7,7 @@ Student developer · Java server work & full-stack web
 
 </div>
 
-I'm a student who builds full-stack web projects and sends fixes to open source projects. **10 merged upstream PRs** so far, mostly in Apache HugeGraph.
+I'm a student who builds full-stack web projects and sends fixes to open source projects. **11 merged upstream PRs** so far, mostly in Apache HugeGraph.
 
 On [Apache HugeGraph](https://github.com/apache/hugegraph) I work on the server and PD: decoding HTTP Basic auth credentials as UTF-8, sanitizing Prometheus metric names and removing duplicated `/metrics` families, exporting per-store state and leader count gauges from PD, and documenting the changes in [hugegraph-doc](https://github.com/apache/hugegraph-doc).
 
@@ -29,7 +29,6 @@ Open pull requests in upstream projects (refreshed automatically).
 - [apache/hugegraph-doc#547](https://github.com/apache/hugegraph-doc/pull/547) — docs(pd): document the periodic leader balance settings
 - [json-schema-org/JSON-Schema-Test-Suite#1241](https://github.com/json-schema-org/JSON-Schema-Test-Suite/pull/1241) — Add two missing test groups to draft6 and draft7
 - [accordproject/template-engine#217](https://github.com/accordproject/template-engine/pull/217) — fix: use the singular unit when drafting a Duration or Period of 1
-- [apache/casbin#1767](https://github.com/apache/casbin/pull/1767) — fix: look up pattern tokens by group name in KeyMatch4 and KeyGet2/3
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
 
 ## Stats
@@ -45,4 +44,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-10-27 03:41 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-10-31 04:00 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
