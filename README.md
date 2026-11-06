@@ -27,7 +27,7 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 Open pull requests in upstream projects (refreshed automatically).
 
 - [apache/hugegraph-doc#547](https://github.com/apache/hugegraph-doc/pull/547) — docs(pd): document the periodic leader balance settings
-- [accordproject/template-engine#217](https://github.com/accordproject/template-engine/pull/217) — fix: use the singular unit when drafting a Duration or Period of 1
+- [accordproject/template-engine#217](https://github.com/accordproject/template-engine/pull/217) — fix: draft Duration and Period in the generation locale
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
 
 ## Stats
@@ -43,4 +43,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-11-01 04:22 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-06 13:44 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
