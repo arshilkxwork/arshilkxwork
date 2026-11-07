@@ -20,12 +20,13 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 | Project | PRs | Focus |
 | --- | --- | --- |
 | [Apache HugeGraph](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Aapache%2Fhugegraph+repo%3Aapache%2Fhugegraph-doc) | 6 merged · 2 open | Server auth and Prometheus metrics fixes, PD store gauges and leader balancing, docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3374">#3374</a> — fix(hstore): register the graph with PD again after clear</sub> |
-| [Kiwix JS](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Akiwix%2Fkiwix-js) | 2 merged · 0 open | Archive loading fixes: block cache keys for same-name archives, folder drag and drop.<br><sub>Latest: <a href="https://github.com/kiwix/kiwix-js/pull/1542">#1542</a> — Read every entry of a folder dropped onto the app #1545</sub> |
+| [Kiwix JS](https://github.com/pulls?q=is%3Apr+author%3Aarshilkxwork+repo%3Akiwix%2Fkiwix-js) | 2 merged · 1 open | Archive loading fixes: block cache keys for same-name archives, folder drag and drop.<br><sub>Latest: <a href="https://github.com/kiwix/kiwix-js/pull/1542">#1542</a> — Read every entry of a folder dropped onto the app #1545</sub> |
 
 ## Open PRs
 
 Open pull requests in upstream projects (refreshed automatically).
 
+- [kiwix/kiwix-js#1566](https://github.com/kiwix/kiwix-js/pull/1566) — Ignore leading whitespace in title search #1557
 - [apache/hugegraph-doc#547](https://github.com/apache/hugegraph-doc/pull/547) — docs(pd): document the periodic leader balance settings
 - [accordproject/template-engine#217](https://github.com/accordproject/template-engine/pull/217) — fix: draft Duration and Period in the generation locale
 - [apache/hugegraph#3356](https://github.com/apache/hugegraph/pull/3356) — feat(pd): add optional periodic partition leader balancing
@@ -43,4 +44,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-11-06 13:44 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-07 21:26 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
