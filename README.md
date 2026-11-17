@@ -26,7 +26,7 @@ Outside upstream work I'm building CheckD, a care and accountability app: a [Rea
 
 Open pull requests in upstream projects (refreshed automatically).
 
-- [kiwix/kiwix-js#1569](https://github.com/kiwix/kiwix-js/pull/1569) — Start a title search when text is pasted from the context menu #1568
+- [kiwix/kiwix-js#1569](https://github.com/kiwix/kiwix-js/pull/1569) — Start a title search when text arrives without a key press #1568
 - [kiwix/kiwix-js#1566](https://github.com/kiwix/kiwix-js/pull/1566) — Ignore leading whitespace in title search #1557
 - [apache/hugegraph-doc#547](https://github.com/apache/hugegraph-doc/pull/547) — docs(pd): document the periodic leader balance settings
 - [accordproject/template-engine#217](https://github.com/accordproject/template-engine/pull/217) — fix: draft Duration and Period in the generation locale
@@ -45,4 +45,4 @@ Java · JavaScript · TypeScript · React Native · Expo · Node.js · Express �
 
 ---
 
-<sub>Auto-updated 2026-11-11 13:33 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-17 01:34 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
